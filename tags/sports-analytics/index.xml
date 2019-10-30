@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports Analytics | Shannon Paylor</title>
+    <link>https://spaylor4.github.io/tags/sports-analytics/</link>
+      <atom:link href="https://spaylor4.github.io/tags/sports-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sports Analytics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spaylor4.github.io/img/icon-192.png</url>
+      <title>Sports Analytics</title>
+      <link>https://spaylor4.github.io/tags/sports-analytics/</link>
+    </image>
+    
+    <item>
+      <title>Moses Malone-ing It</title>
+      <link>https://spaylor4.github.io/project/moses-maloneing-it/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://spaylor4.github.io/project/moses-maloneing-it/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Journalism | Shannon Paylor</title>
+    <link>https://spaylor4.github.io/tags/data-journalism/</link>
+      <atom:link href="https://spaylor4.github.io/tags/data-journalism/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Journalism</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spaylor4.github.io/img/icon-192.png</url>
+      <title>Data Journalism</title>
+      <link>https://spaylor4.github.io/tags/data-journalism/</link>
+    </image>
+    
+    <item>
+      <title>Explore a New Database of Severe Worker Injuries in Hawaii</title>
+      <link>https://spaylor4.github.io/project/hawaii-osha/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://spaylor4.github.io/project/hawaii-osha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US Census - Those Over 65 Are Hawaii&#39;s Fastest Growing Group</title>
+      <link>https://spaylor4.github.io/project/hawaii-census/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://spaylor4.github.io/project/hawaii-census/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
