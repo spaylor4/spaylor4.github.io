@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Shanalytics</title>
-    <link>https://spaylor4.github.io/project/</link>
-      <atom:link href="https://spaylor4.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Yosemite Archives | Shanalytics</title>
+    <link>https://spaylor4.github.io/tags/yosemite-archives/</link>
+      <atom:link href="https://spaylor4.github.io/tags/yosemite-archives/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yosemite Archives</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://spaylor4.github.io/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>https://spaylor4.github.io/project/</link>
+      <title>Yosemite Archives</title>
+      <link>https://spaylor4.github.io/tags/yosemite-archives/</link>
     </image>
     
     <item>
@@ -17,30 +17,6 @@
       <link>https://spaylor4.github.io/project/3-yose-qa/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://spaylor4.github.io/project/3-yose-qa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explore a New Database of Severe Worker Injuries in Hawaii</title>
-      <link>https://spaylor4.github.io/project/4-hawaii-osha/</link>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://spaylor4.github.io/project/4-hawaii-osha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>US Census - Those Over 65 Are Hawaii&#39;s Fastest Growing Group</title>
-      <link>https://spaylor4.github.io/project/2-hawaii-census/</link>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://spaylor4.github.io/project/2-hawaii-census/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moses Malone-ing It</title>
-      <link>https://spaylor4.github.io/project/1-moses-maloneing-it/</link>
-      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://spaylor4.github.io/project/1-moses-maloneing-it/</guid>
       <description></description>
     </item>
     
