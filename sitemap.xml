@@ -33,12 +33,17 @@
   </url>
   
   <url>
-    <loc>https://spaylor4.github.io/project/3-yose-qa/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+    <loc>https://spaylor4.github.io/project/data-mining-proj/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://spaylor4.github.io/project/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://spaylor4.github.io/project/3-yose-qa/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -219,10 +224,6 @@
   
   <url>
     <loc>https://spaylor4.github.io/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>https://spaylor4.github.io/project/data-mining-proj/</loc>
   </url>
   
 </urlset>
